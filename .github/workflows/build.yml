@@ -1,5 +1,5 @@
 name: Build
-于:
+on:
   workflow_dispatch:
       inputs:
         package_name:
